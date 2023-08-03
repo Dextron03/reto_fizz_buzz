@@ -8,3 +8,18 @@ print(f"""
 | * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".       |
 +=====================================================================+
       """)
+
+for i in range(1,101,1):
+  if type(i) is float:
+    print(f"{i} es  un nuemro decimal(float).\nEl nuemro debe ser un entero(int).")
+    break
+  else:
+    if i % 3 == 0 and i % 5 == 0:
+      print("fizzbuzz\n")
+    elif i % 3 == 0:
+      print(f"Fizz\n")
+    elif i % 5 == 0:
+      print("Buzz\n")
+    else:
+      print(f"{i}\n")
+  
