@@ -24,5 +24,3 @@ Aquí puedes ver mi solución al reto:
 3. Ejecuta el programa y verás la secuencia de números del 1 al 100 con las sustituciones de "fizz", "buzz" y "fizzbuzz".
 
 ¡Diviértete resolviendo el reto y mejorando tu habilidad de programación! Si tienes alguna pregunta o sugerencia, no dudes en comunicármelo. ¡Buena suerte!
-
-> **Si esta hecho con CHAT GPT !A LO QUE TU QUIERA¡**
